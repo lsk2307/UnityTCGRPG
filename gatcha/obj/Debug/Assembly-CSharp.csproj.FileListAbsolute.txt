@@ -1,0 +1,2 @@
+C:\Users\KGA_27\Desktop\gatcha\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\KGA_27\Desktop\gatcha\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
